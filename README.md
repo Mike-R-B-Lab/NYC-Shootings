@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-My girlfriend being from New-York, I decided to analyze the most dangerous boroughs, times, months and years for shootings in case she was ever wondering. 
+My girlfriend being from New York City, I was curious about the frequency of shootings there. I decided to analyze the most dangerous boroughs, times and months for the past 10 years to know where not to go when visiting her parents.
 
 Wanted to also show off my Power Bi skills.
 
