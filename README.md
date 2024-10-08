@@ -1,6 +1,6 @@
 # NYC Shootings
 
-My girlfriend being from New York City, I was curious about the frequency of shootings there. I decided to analyze the most dangerous boroughs, times and months for the past 10 years to know where not to go when visiting her parents.
+Given that my girlfriend is from New York City, I was curious about the frequency of shootings there. I decided to analyze the most dangerous boroughs, times and months for the past 10 years to know where not to go when visiting her parents.
 
 Wanted to also show off my Power Bi skills.
 
